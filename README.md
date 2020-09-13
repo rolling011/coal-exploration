@@ -1,1 +1,1 @@
-# coal-exploration
+# coal-exploring
